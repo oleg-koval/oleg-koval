@@ -17,3 +17,4 @@ jobs:
         with:
           feed_list: "https://rss.app/feeds/yW51G6BInafKx47C.xml"
           max_post_count: 3
+          template: "- [$title]($url)$newline"
