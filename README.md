@@ -38,8 +38,7 @@ The common thread? Pragmatism beats cleverness. Every time.
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [33 Million Accounts Exposed: What the Condé Nast Breach Teaches Engineering Leaders](https://olko.substack.com/p/33-million-accounts-exposed-what)- [When Someone Dismisses Your Work. Why You Should Keep Building Anyway](https://olko.substack.com/p/when-someone-dismisses-your-work)- [From Idea to Impact: Applying the &quot;RADIO-AI&quot; Pattern for Effortless AI Agent MVPs](https://olko.substack.com/p/from-idea-to-impact-applying-the)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on Substack](https://olko.substack.com)
 
