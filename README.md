@@ -36,6 +36,15 @@ The common thread? Pragmatism beats cleverness. Every time.
 
 ---
 
+### Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More on Substack](https://olko.substack.com)
+
+---
+
 <p align="center">
 <a href="https://linkedin.com/in/kovaloleg">LinkedIn |</a>
 <a href="https://oleg-koval.com">Photography |</a>
