@@ -1,8 +1,8 @@
 name: Latest blog posts
 on:
   schedule:
-    - cron: '0 */6 * * *' 
-  workflow_dispatch:  
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -16,3 +16,5 @@ jobs:
           max_post_count: 3
           template: "- [$title]($url)"
           date_format: "null"
+          accept_header: "application/rss+xml, application/xml, text/xml"
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
