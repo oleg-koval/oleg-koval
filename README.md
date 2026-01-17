@@ -55,3 +55,6 @@ The common thread? Pragmatism beats cleverness. Every time.
 <p align="center">
 <sub>Available for interesting problems and coffee chats.</sub>
 </p>
+
+
+![](https://hit.yhype.me/github/profile?account_id=5700359)
