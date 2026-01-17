@@ -4,6 +4,9 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
@@ -16,5 +19,3 @@ jobs:
           max_post_count: 3
           template: "- [$title]($url)"
           date_format: "null"
-          accept_header: "application/rss+xml, application/xml, text/xml"
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
