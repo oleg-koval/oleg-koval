@@ -28,7 +28,7 @@ I build systems that handle money, scale under pressure, and don't page you at 3
 
 When I'm not writing code, I'm behind a camera - art, fashion, and documentary photography.
 
-I've worked in startups from Kyiv to Amsterdam. I've seen codebases that should've stayed prototypes and prototypes that became products serving millions.
+I've worked in startups from Lviv to Amsterdam. I've seen codebases that should've stayed prototypes and prototypes that became products serving millions.
 
 The common thread? Pragmatism beats cleverness. Every time.
 
