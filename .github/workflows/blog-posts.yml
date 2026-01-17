@@ -17,5 +17,3 @@ jobs:
         with:
           feed_list: "https://rss.app/feeds/yW51G6BInafKx47C.xml"
           max_post_count: 3
-          template: "$newline- **[$title]($url)**$newline  $description"
-          item_exec: "post.description = post.description?.slice(0,100) + '...'"
