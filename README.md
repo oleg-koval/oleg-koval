@@ -5,8 +5,6 @@ Ship things that hold up when the room gets loud.
 
 <kbd>TypeScript</kbd> <kbd>Node</kbd> <kbd>Go</kbd> <kbd>AWS</kbd> <kbd>Lambda</kbd> <kbd>DynamoDB</kbd> <kbd>Postgres</kbd> <kbd>Event-driven</kbd> <kbd>DDD</kbd>
 
-Currently at [Bizcuit](https://bizcuit.nl), wiring banking rails.
-Previously at [Brandfetch](https://brandfetch.com), where I led the public Logo API.
 Off the clock: 35 mm, long walks, [patient light](https://instagram.com/olkokoval).
 
 ### A few things you can `npm install`
@@ -36,5 +34,5 @@ The best architecture is the one your team can maintain at 2 a.m.
   <a href="mailto:hello@olegkoval.com">hello@olegkoval.com</a>
 </p>
 <p align="center">
-  <sub>Open to EU / remote lead roles. Say hi.</sub>
+  <sub>Say hi.</sub>
 </p>
