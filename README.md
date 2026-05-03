@@ -1,7 +1,23 @@
 I'm Oleg Koval, a software engineer working on fintech systems, APIs, developer tools, and AI-assisted workflows.
 
-I build small practical tools around problems I run into while shipping software. I also write, take photographs, and publish experiments at [olegkoval.com](https://olegkoval.com)
+I build practical software around banking, automation, backend systems, and developer productivity. I also write, take photographs, and publish experiments at oleg-koval.com.
 
+### Work
+
+**Bizcuit:** worked on fintech systems around KYC, banking integrations, payments, and customer onboarding. Built and improved flows involving bank connections, SEPA payment processing, event-driven orchestration, and embedded in-app verification experiences.
+
+**Brandfetch:** worked as a senior engineer / lead on APIs, data workflows, brand data infrastructure, and product features used by companies integrating brand assets and metadata into their products.
+
+**Dott, Rodeo, Bugaboo, Bamboo, and others:** worked across mobility, fintech, e-commerce, and SaaS products. Mostly backend, APIs, cloud infrastructure, product engineering, and technical leadership.
+
+**Independent projects:** build and ship small products, CLI tools, SaaS starters, automation utilities, and AI-assisted developer tools.
+
+### Products
+
+* [prompt-ctl](https://prompt-ctl.com): prompt tooling for working with AI agents.
+* [saas-init](https://saas-init.dev): a SaaS starter for Next.js projects.
+* [xerx.dev](https://xerx.dev): small software delivery agency.
+* [olegkoval.photo](https://olegkoval.photo): photography portfolio.
 
 ### Open Source
 
@@ -36,7 +52,8 @@ I build small practical tools around problems I run into while shipping software
 
 ### Elsewhere
 
+* [Portfolio](https://oleg-koval.com)
 * [Writing](https://olko.substack.com)
 * [LinkedIn](https://linkedin.com/in/kovaloleg)
-* [Photography](https://olegkoval.photo)
+* [Photography](https://instagram.com/olkokoval)
 * hello@olegkoval.com
