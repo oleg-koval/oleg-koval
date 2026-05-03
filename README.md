@@ -12,13 +12,6 @@ I build practical software around banking, automation, backend systems, and deve
 
 **Independent projects:** build and ship small products, CLI tools, SaaS starters, automation utilities, and AI-assisted developer tools.
 
-### Products
-
-* [prompt-ctl](https://prompt-ctl.com): prompt tooling for working with AI agents.
-* [saas-init](https://saas-init.dev): a SaaS starter for Next.js projects.
-* [xerx.dev](https://xerx.dev): small software delivery agency.
-* [olegkoval.photo](https://olegkoval.photo): photography portfolio.
-
 ### Open Source
 
 #### AI and agent tooling
@@ -52,8 +45,8 @@ I build practical software around banking, automation, backend systems, and deve
 
 ### Elsewhere
 
-* [Portfolio](https://oleg-koval.com)
+* [Portfolio](https://olegkoval.com)
+* [Photography](https://olegkoval.photo)
 * [Writing](https://olko.substack.com)
 * [LinkedIn](https://linkedin.com/in/kovaloleg)
-* [Photography](https://instagram.com/olkokoval)
-* hello@olegkoval.com
+* hello (at) olegkoval.com
