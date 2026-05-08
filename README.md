@@ -50,3 +50,4 @@ I build practical software around banking, automation, backend systems, and deve
 * [Writing](https://olko.substack.com)
 * [LinkedIn](https://linkedin.com/in/kovaloleg)
 * hello (at) olegkoval.com
+![](https://hit.yhype.me/github/profile?account_id=5700359)
