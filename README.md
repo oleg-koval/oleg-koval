@@ -1,53 +1,49 @@
-I'm Oleg Koval, a software engineer working on fintech systems, APIs, developer tools, and AI-assisted workflows.
+# Oleg Koval
 
-I build practical software around banking, automation, backend systems, and developer productivity. I also write, take photographs, and publish experiments at oleg-koval.com.
+I'm a lead engineer with 13+ years building fintech backends - banking integrations, SEPA payments, and KYC onboarding - and the developer tooling and AI agent workflows around them.
 
-### Work
+Right now I'm building in the agent-orchestration space: CLI tooling for prompt workflows and reusable skills for coding agents. I ship open-source tools (five live on npm), write about distributed systems and AI tooling, and shoot film. It all lives at [olegkoval.com](https://www.olegkoval.com).
 
-**Bizcuit:** worked on fintech systems around KYC, banking integrations, payments, and customer onboarding. Built and improved flows involving bank connections, SEPA payment processing, event-driven orchestration, and embedded in-app verification experiences.
+## Latest writing
 
-**Brandfetch:** worked as a senior engineer / lead on APIs, data workflows, brand data infrastructure, and product features used by companies integrating brand assets and metadata into their products.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-**Dott, Rodeo, Bugaboo, Bamboo, and others:** worked across mobility, fintech, e-commerce, and SaaS products. Mostly backend, APIs, cloud infrastructure, product engineering, and technical leadership.
+[More on the blog](https://www.olegkoval.com/blog) · [Substack](https://olko.substack.com)
 
-**Independent projects:** build and ship small products, CLI tools, SaaS starters, automation utilities, and AI-assisted developer tools.
+## Work
 
-### Open Source
+- **Bizcuit** - Fintech. Bank connections, SEPA payment processing, KYC onboarding, and event-driven orchestration behind embedded in-app verification.
+- **Brandfetch** - Senior / lead on the brand-data API and infrastructure powering integrations for companies pulling brand assets and metadata into their products.
+- **Dott, Rodeo, Bugaboo, Bamboo, and others** - Backend, APIs, cloud infrastructure, and technical leadership across mobility, fintech, e-commerce, and SaaS.
+- **Independent** - Small products, CLI tools, SaaS starters, and AI-assisted developer tooling.
 
-#### AI and agent tooling
+## Open source
 
-* [prompt-ctl](https://github.com/prompt-ctl/prompt-ctl): CLI toolkit for prompt workflows.
-* [agent-skills](https://github.com/oleg-koval/agent-skills): reusable skills for coding agents.
+**AI and agent tooling**
+- [prompt-ctl](https://github.com/prompt-ctl/prompt-ctl) - CLI toolkit for prompt workflows and LLM provider switching.
+- [agent-skills](https://github.com/oleg-koval/agent-skills) - Reusable skills for coding agents.
 
-#### Developer tools
+**Backend and SaaS**
+- [saas-init](https://github.com/oleg-koval/saas-init) ![downloads](https://img.shields.io/npm/dt/saas-init) - SaaS project scaffolder.
+- [trembita](https://github.com/oleg-koval/trembita) ![downloads](https://img.shields.io/npm/dt/trembita) - Small TypeScript HTTP helper.
+- [queryd](https://github.com/oleg-koval/slow-query-detector) - Slow query detection for Node.js.
 
-* [dcli](https://github.com/oleg-koval/dcli): Docker Compose and Git workflow helper.
-* [mac-onboarding](https://github.com/oleg-koval/mac-onboarding): restore and document a Mac development setup.
-* [swiftbar-plugins](https://github.com/oleg-koval/swiftbar-plugins): small macOS menu bar plugins.
+**Automation and release**
+- [semantic-release-npm-github-publish](https://github.com/oleg-koval/semantic-release-npm-github-publish) ![downloads](https://img.shields.io/npm/dt/semantic-release-npm-github-publish) - Reusable npm and GitHub release config.
+- [docs-index-keeper](https://github.com/oleg-koval/docs-index-keeper) ![downloads](https://img.shields.io/npm/dt/docs-index-keeper) - Keeps Markdown indexes in sync.
+- [pr-automerge-github-action](https://github.com/oleg-koval/pr-automerge-github-action) - Automerge for maintenance PRs.
 
-#### Backend and SaaS
+**Developer tools**
+- [dcli](https://github.com/oleg-koval/dcli) - Docker Compose and Git workflow helper.
+- [mac-onboarding](https://github.com/oleg-koval/mac-onboarding) - Restore and document a Mac dev setup.
+- [swiftbar-plugins](https://github.com/oleg-koval/swiftbar-plugins) - Small macOS menu bar plugins.
 
-* [saas-init](https://github.com/oleg-koval/saas-init): SaaS project scaffolder.
-* [trembita](https://github.com/oleg-koval/trembita): small TypeScript HTTP helper.
-* [queryd](https://github.com/oleg-koval/slow-query-detector): slow query detection for Node.js.
+**Frontend and quality**
+- [react-honeypot-field](https://github.com/oleg-koval/react-honeypot-field) ![downloads](https://img.shields.io/npm/dt/react-honeypot-field) - Lightweight React honeypot field.
+- [drop-em-dash-eslint-rule](https://github.com/oleg-koval/drop-em-dash-eslint-rule) - ESLint rule to block em dashes.
+- [ts-npm-starter](https://github.com/oleg-koval/ts-npm-starter) - TypeScript npm package starter.
 
-#### Automation and maintenance
+## Elsewhere
 
-* [docs-index-keeper](https://github.com/oleg-koval/docs-index-keeper): keeps Markdown indexes in sync.
-* [semantic-release-npm-github-publish](https://github.com/oleg-koval/semantic-release-npm-github-publish): reusable npm and GitHub release config.
-* [pr-automerge-github-action](https://github.com/oleg-koval/pr-automerge-github-action): automerge for maintenance PRs.
-
-#### Frontend and quality
-
-* [react-honeypot-field](https://github.com/oleg-koval/react-honeypot-field): lightweight React honeypot field.
-* [drop-em-dash-eslint-rule](https://github.com/oleg-koval/drop-em-dash-eslint-rule): ESLint rule to block em dashes.
-* [ts-npm-starter](https://github.com/oleg-koval/ts-npm-starter): TypeScript npm package starter.
-
-### Elsewhere
-
-* [Portfolio](https://olegkoval.com)
-* [Photography](https://olegkoval.photo)
-* [Writing](https://olko.substack.com)
-* [LinkedIn](https://linkedin.com/in/kovaloleg)
-* hello (at) olegkoval.com
-![](https://hit.yhype.me/github/profile?account_id=5700359)
+[Portfolio](https://www.olegkoval.com) · [Photography](https://olegkoval.photo) · [Writing](https://olko.substack.com) · [LinkedIn](https://linkedin.com/in/kovaloleg) · hello (at) olegkoval.com
