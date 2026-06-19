@@ -1,19 +1,26 @@
 name: Latest blog posts
+
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:        # adds a manual "Run workflow" button for instant testing
+
 permissions:
-  contents: write
+  contents: write           # lets the action commit the updated README
+
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rss.app/feeds/yW51G6BInafKx47C.xml"
-          max_post_count: 3
-          template: |
-            - [$title]($url)
+          # CONFIRM THIS URL. Open it in a browser - if you get XML, it works.
+          # If olegkoval.com has no feed yet, swap in the Substack feed below
+          # (guaranteed to work): https://olko.substack.com/feed
+          feed_list: "https://www.olegkoval.com/feed.xml"
+          max_post_count: 5
+          commit_message: "chore: refresh latest blog posts"
