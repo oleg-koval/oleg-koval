@@ -2,7 +2,7 @@
 
 I'm a lead engineer with 13+ years building fintech backends - banking integrations, SEPA payments, and KYC onboarding - and the developer tooling and AI agent workflows around them.
 
-Right now I'm building in the agent-orchestration space: CLI tooling for prompt workflows and reusable skills for coding agents. I ship open-source tools (five live on npm), write about distributed systems and AI tooling, and shoot film. It all lives at [olegkoval.com](https://www.olegkoval.com).
+Right now I'm building in the agent-orchestration space: CLI tooling for prompt workflows and reusable skills for coding agents. My open-source tooling has 285k+ npm installs and counting. I also write about distributed systems and AI tooling, and shoot film. It all lives at [olegkoval.com](https://www.olegkoval.com).
 
 ## Latest writing
 
@@ -25,7 +25,7 @@ Right now I'm building in the agent-orchestration space: CLI tooling for prompt 
 - [agent-skills](https://github.com/oleg-koval/agent-skills) - Reusable skills for coding agents.
 
 **Backend and SaaS**
-- [saas-init](https://github.com/oleg-koval/saas-init) ![downloads](https://img.shields.io/npm/dt/saas-init) - SaaS project scaffolder.
+- [saas-init](https://github.com/oleg-koval/saas-init) - SaaS project scaffolder.
 - [trembita](https://github.com/oleg-koval/trembita) ![downloads](https://img.shields.io/npm/dt/trembita) - Small TypeScript HTTP helper.
 - [queryd](https://github.com/oleg-koval/slow-query-detector) - Slow query detection for Node.js.
 
@@ -40,7 +40,7 @@ Right now I'm building in the agent-orchestration space: CLI tooling for prompt 
 - [swiftbar-plugins](https://github.com/oleg-koval/swiftbar-plugins) - Small macOS menu bar plugins.
 
 **Frontend and quality**
-- [react-honeypot-field](https://github.com/oleg-koval/react-honeypot-field) ![downloads](https://img.shields.io/npm/dt/react-honeypot-field) - Lightweight React honeypot field.
+- [react-honeypot-field](https://github.com/oleg-koval/react-honeypot-field) - Lightweight React honeypot field.
 - [drop-em-dash-eslint-rule](https://github.com/oleg-koval/drop-em-dash-eslint-rule) - ESLint rule to block em dashes.
 - [ts-npm-starter](https://github.com/oleg-koval/ts-npm-starter) - TypeScript npm package starter.
 
