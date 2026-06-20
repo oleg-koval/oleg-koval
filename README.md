@@ -7,6 +7,11 @@ Right now I'm building in the agent-orchestration space: CLI tooling for prompt 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Review Used to Be a Power Game. AI Ended It.](https://www.olegkoval.com/blog/code-review-used-to-be-a-power-game)
+- [Code Review Used to Be a Power Game. AI Ended It. Nobody Noticed.](https://www.olegkoval.com/blog/code-review-power-game-ai)
+- [AirPrint on Any Linux NAS: The Universal Setup](https://www.olegkoval.com/blog/airprint-on-any-linux-nas-the-universal-setup)
+- [A GitHub Action that automerges maintenance bot PRs safely](https://www.olegkoval.com/blog/a-github-action-that-automerges-maintenance-bot-prs-safely)
+- [7 Things Kitty Can Do That Will Make You Forget iTerm2 Existed](https://www.olegkoval.com/blog/7-things-kitty-can-do-that-will-make)
 <!-- BLOG-POST-LIST:END -->
 
 [More on the blog](https://www.olegkoval.com/blog) · [Substack](https://olko.substack.com)
