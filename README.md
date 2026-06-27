@@ -63,7 +63,7 @@ Right now I'm building in the agent-orchestration space: CLI tooling for prompt 
 
 ## GitHub stats
 
-![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-koval&show_icons=true&hide_border=true&theme=dark)
+![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-koval&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-koval&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=html,css,scss,dockerfile,makefile,shell)
 
 ## Elsewhere
