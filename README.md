@@ -35,18 +35,18 @@ Right now I'm building in the agent-orchestration space: CLI tooling for prompt 
 
 ## Open source
 
-**AI and agent tooling**
-- [prompt-ctl](https://github.com/prompt-ctl/prompt-ctl) - CLI toolkit for prompt workflows and LLM provider switching.
-- [agent-skills](https://github.com/oleg-koval/agent-skills) - Reusable skills for coding agents.
+- [prompt-ctl](https://github.com/prompt-ctl/prompt-ctl) — CLI toolkit for prompt workflows and LLM provider switching.
+- [agent-skills](https://github.com/oleg-koval/agent-skills) — Reusable skills for coding agents.
+- [trembita](https://github.com/oleg-koval/trembita) ![downloads](https://img.shields.io/npm/dt/trembita) · [semantic-release-npm-github-publish](https://github.com/oleg-koval/semantic-release-npm-github-publish) ![downloads](https://img.shields.io/npm/dt/semantic-release-npm-github-publish) · [docs-index-keeper](https://github.com/oleg-koval/docs-index-keeper) ![downloads](https://img.shields.io/npm/dt/docs-index-keeper)
+
+<details>
+<summary>More projects</summary>
 
 **Backend and SaaS**
 - [saas-init](https://github.com/oleg-koval/saas-init) - SaaS project scaffolder.
-- [trembita](https://github.com/oleg-koval/trembita) ![downloads](https://img.shields.io/npm/dt/trembita) - Small TypeScript HTTP helper.
 - [queryd](https://github.com/oleg-koval/slow-query-detector) - Slow query detection for Node.js.
 
 **Automation and release**
-- [semantic-release-npm-github-publish](https://github.com/oleg-koval/semantic-release-npm-github-publish) ![downloads](https://img.shields.io/npm/dt/semantic-release-npm-github-publish) - Reusable npm and GitHub release config.
-- [docs-index-keeper](https://github.com/oleg-koval/docs-index-keeper) ![downloads](https://img.shields.io/npm/dt/docs-index-keeper) - Keeps Markdown indexes in sync.
 - [pr-automerge-github-action](https://github.com/oleg-koval/pr-automerge-github-action) - Automerge for maintenance PRs.
 
 **Developer tools**
@@ -58,6 +58,8 @@ Right now I'm building in the agent-orchestration space: CLI tooling for prompt 
 - [react-honeypot-field](https://github.com/oleg-koval/react-honeypot-field) - Lightweight React honeypot field.
 - [drop-em-dash-eslint-rule](https://github.com/oleg-koval/drop-em-dash-eslint-rule) - ESLint rule to block em dashes.
 - [ts-npm-starter](https://github.com/oleg-koval/ts-npm-starter) - TypeScript npm package starter.
+
+</details>
 
 ## GitHub stats
 
